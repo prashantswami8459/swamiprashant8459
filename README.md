@@ -24,7 +24,7 @@ Testing Skills
 
 ✅ Bug Tracking & Defect Reporting
 
-✅ Basic API Testing
+✅ Basic API Testing 
 
 ✅ Git & GitHub (Version Control)
 
