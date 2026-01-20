@@ -14,7 +14,7 @@ Testing Skills
 
 ✅ Manual Testing (Test Cases, Test Scenarios, STLC)
 
-✅ Automation Testing (Selenium with Java)
+✅ Automation Testing (Selenium with Java) 
 
 ✅ Regression Testing
 
